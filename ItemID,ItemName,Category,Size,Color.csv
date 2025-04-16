@@ -1,0 +1,11 @@
+ItemID,ItemName,Category,Size,Color,StockQuantity,SupplierID,SupplierName,SupplierContact,PurchaseOrderID,OrderDate,UnitPrice,TotalPrice
+1001,T-Shirt,Clothing,M,Red,50,SUP001,ABC Clothing Co.,+1234567890,PO1001,2025-01-15,10.00,500.00
+1002,Jeans,Clothing,L,Blue,30,SUP002,XYZ Apparel,+1234567891,PO1002,2025-01-20,25.00,750.00
+1003,Sweater,Clothing,S,Green,20,SUP003,Trendy Wear Ltd.,+1234567892,PO1003,2025-02-05,15.00,300.00
+1004,Jacket,Clothing,XL,Black,15,SUP001,ABC Clothing Co.,+1234567890,PO1004,2025-02-10,50.00,750.00
+1005,Shirt,Clothing,M,White,40,SUP002,XYZ Apparel,+1234567891,PO1005,2025-02-15,12.00,480.00
+1006,Cap,Accessories,One Size,Black,100,SUP004,Fashion Caps Inc.,+1234567893,PO1006,2025-01-30,8.00,800.00
+1007,Sneakers,Shoes,42,White,25,SUP005,Comfort Shoes Ltd.,+1234567894,PO1007,2025-02-20,30.00,750.00
+1008,Skirt,Clothing,M,Pink,10,SUP003,Trendy Wear Ltd.,+1234567892,PO1008,2025-03-01,20.00,200.00
+1009,Socks,Accessories,One Size,Gray,150,SUP006,Elite Socks Co.,+1234567895,PO1009,2025-02-25,3.00,450.00
+1010,Blouse,Clothing,S,Yellow,20,SUP002,XYZ Apparel,+1234567891,PO1010,2025-03-10,18.00,360.00
